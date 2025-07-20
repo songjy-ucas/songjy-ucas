@@ -1,9 +1,14 @@
 ## Hi 👋
 I'm a Computer Science undergraduate at the University of Chinese Academy of Sciences (UCAS).
+
 🔭 I’m currently exploring different fields in CS and working on my course projects.
+
 🌱 I’m eager to learn new technologies and contribute to open-source projects.
+
 ⚽ In my free time, I enjoy the strategy of both football (soccer) and the game of Go.
+
 📫 How to reach me: [songjunyi23@mails.ucas.ac.cn]
+
 <!--
 **songjy-ucas/songjy-ucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
